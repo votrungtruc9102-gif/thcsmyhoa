@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix THCS MỸ HÒA – HỌC TẬP TRỰC TUYẾN",
+  "description": "Nền tảng học tập trực tuyến, ôn luyện trắc nghiệm, trò chơi giáo dục và quản lý giảng dạy Trường THCS Mỹ Hòa năm học 2026–2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
